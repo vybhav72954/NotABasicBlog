@@ -1,0 +1,2 @@
+# NotABasicBlog
+DJango Blog
