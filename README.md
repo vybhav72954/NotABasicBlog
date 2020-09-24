@@ -6,4 +6,5 @@ DJango Blog
 
 Vybhav Chaturvedi
 
+Vedansh Varshney
 
